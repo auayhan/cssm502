@@ -1,0 +1,848 @@
+state;district;year;full_name;party;grade
+Alabama;1.0;2018;Robert Kennedy, Jr.;D;?
+Alabama;1.0;2018;Bradley Byrne;R;A
+Alabama;2.0;2018;Tabitha Isner;D;F
+Alabama;2.0;2018;Martha Roby;R;A
+Alabama;3.0;2018;Mallory Hagan;D;F
+Alabama;3.0;2018;Mike Rogers;R;A+
+Alabama;4.0;2018;Lee Auman;D;F
+Alabama;4.0;2018;Robert Aderholt;R;A
+Alabama;5.0;2018;Peter Joffrion;D;F
+Alabama;5.0;2018;Mo Brooks;R;A
+Alabama;6.0;2018;Danner Kline;D;F
+Alabama;6.0;2018;Gary Palmer;R;A
+Alabama;7.0;2018;Terri Sewell;D;D
+Alaska;;2018;Alyse Galvin;D;?
+Alaska;;2018;Don Young;R;A+
+Arizona;1.0;2018;Tom O'Halleran;D;F
+Arizona;1.0;2018;Wendy Rogers;R;AQ
+Arizona;2.0;2018;Ann Kirkpatrick;D;F
+Arizona;2.0;2018;Lea Marquez-Peterson;R;AQ
+Arizona;3.0;2018;Raúl Grijalva;D;F
+Arizona;3.0;2018;Nick Pierson;R;?
+Arizona;4.0;2018;David Brill;D;F
+Arizona;4.0;2018;Paul Gosar;R;A-
+Arizona;5.0;2018;Joan Greene;D;F
+Arizona;5.0;2018;Andy Biggs;R;A
+Arizona;6.0;2018;Anita Malik;D;F
+Arizona;6.0;2018;David Schweikert;R;A
+Arizona;7.0;2018;Ruben Gallego;D;F
+Arizona;8.0;2018;Hiral Tipirneni;D;F
+Arizona;8.0;2018;Debbie Lesko;R;A
+Arizona;9.0;2018;Greg Stanton;D;F
+Arizona;9.0;2018;Steve Ferrara;R;AQ
+Arkansas;1.0;2018;Chintan Desai;D;F
+Arkansas;1.0;2018;Rick Crawford;R;A
+Arkansas;2.0;2018;Clarke Tucker;D;F
+Arkansas;2.0;2018;French Hill;R;A
+Arkansas;3.0;2018;Josh Mahony;D;F
+Arkansas;3.0;2018;Steve Womack;R;A
+Arkansas;4.0;2018;Hayden Shamel;D;D
+Arkansas;4.0;2018;Bruce Westerman;R;A
+California;1.0;2018;Audrey Denney;D;F
+California;1.0;2018;Doug LaMalfa;R;A
+California;2.0;2018;Jared Huffman;D;F
+California;2.0;2018;Dale Mensing;R;AQ
+California;3.0;2018;John Garamendi;D;F
+California;3.0;2018;Charlie Schaupp;R;AQ
+California;4.0;2018;Jessica Morse;D;F
+California;4.0;2018;Tom McClintock;R;A
+California;5.0;2018;Mike Thompson;D;F
+California;5.0;2018;Anthony Mills;NPP;?
+California;6.0;2018;Doris Matsui;D;F
+California;6.0;2018;Jrmar Jefferson;D;?
+California;7.0;2018;Ami Bera;D;F
+California;7.0;2018;Andrew Grant;R;AQ
+California;8.0;2018;Paul Cook;R;A
+California;8.0;2018;Tim Donnelly;R;A
+California;9.0;2018;Jerry McNerney;D;F
+California;9.0;2018;Marla Livengood;R;AQ
+California;10.0;2018;Josh Harder;D;F
+California;10.0;2018;Jeff Denham;R;A
+California;11.0;2018;Mark DeSaulnier;D;F
+California;11.0;2018;John Fitzgerald;R;?
+California;12.0;2018;Nancy Pelosi;D;F
+California;12.0;2018;Lisa Remmer;R;AQ
+California;13.0;2018;Barbara Lee;D;F
+California;13.0;2018;Laura Wells;GR;?
+California;14.0;2018;Jackie Speier;D;F
+California;14.0;2018;Cristina Osmena;R;?
+California;15.0;2018;Eric Swalwell;D;F
+California;15.0;2018;Rudy Peters;R;AQ
+California;16.0;2018;Jim Costa;D;F
+California;16.0;2018;Elizabeth Heng;R;?
+California;17.0;2018;Ro Khanna;D;F
+California;17.0;2018;Ron Cohen;R;?
+California;18.0;2018;Anna Eshoo;D;F
+California;18.0;2018;Christine Russell;R;?
+California;19.0;2018;Zoe Lofgren;D;F
+California;19.0;2018;Justin Aguilera;R;AQ
+California;20.0;2018;Jimmy Panetta;D;F
+California;20.0;2018;Ronald Kabat;NPP;AQ
+California;21.0;2018;T.J. Cox;D;F
+California;21.0;2018;David Valadao;R;A
+California;22.0;2018;Andrew Janz;D;F
+California;22.0;2018;Devin Nunes;R;A
+California;23.0;2018;Tatiana Matta;D;F
+California;23.0;2018;Kevin McCarthy;R;A+
+California;24.0;2018;Salud Carbajal;D;F
+California;24.0;2018;Justin Fareed;R;AQ
+California;25.0;2018;Katie Hill;D;F
+California;25.0;2018;Steve Knight;R;A
+California;26.0;2018;Julia Brownley;D;F
+California;26.0;2018;Antonio Sabato, Jr.;R;AQ
+California;27.0;2018;Judy Chu;D;F
+California;27.0;2018;Bryan Witt;D;F
+California;28.0;2018;Adam Schiff;D;F
+California;28.0;2018;Johnny Nalbandian;R;AQ
+California;29.0;2018;Tony Cardenas;D;F
+California;29.0;2018;Benito Benny Bernal;R;AQ
+California;30.0;2018;Brad Sherman;D;F
+California;30.0;2018;Mark Reed;R;AQ
+California;31.0;2018;Pete Aguilar;D;F
+California;31.0;2018;Sean Flynn;R;AQ
+California;32.0;2018;Grace Napolitano;D;F
+California;32.0;2018;Joshua Scott;R;?
+California;33.0;2018;Ted Lieu;D;F
+California;33.0;2018;Kenneth Wright;R;?
+California;34.0;2018;Jimmy Gomez;D;F
+California;34.0;2018;Kenneth Mejia;GR;?
+California;35.0;2018;Norma Torres;D;F
+California;35.0;2018;Christian Valiente;R;?
+California;36.0;2018;Raul Ruiz;D;F
+California;36.0;2018;Kimberlin Brown Pelzer;R;AQ
+California;37.0;2018;Karen Bass;D;F
+California;37.0;2018;Ron Bassilian;R;?
+California;38.0;2018;Linda Sanchez;D;F
+California;38.0;2018;Ryan Downing;R;?
+California;39.0;2018;Gil Cisneros;D;F
+California;39.0;2018;Young Kim;R;A
+California;40.0;2018;Lucille Roybal-Allard;D;F
+California;40.0;2018;Rodolfo Cortes Barragan;GR;?
+California;41.0;2018;Mark Takano;D;F
+California;41.0;2018;Aja Smith;R;AQ
+California;42.0;2018;Julia Peacock;D;F
+California;42.0;2018;Ken Calvert;R;A
+California;43.0;2018;Maxine Waters;D;F
+California;43.0;2018;Omar Navarro;R;AQ
+California;44.0;2018;Nanette Barragan;D;F
+California;44.0;2018;Aja Brown;D;F
+California;45.0;2018;Katie Porter;D;F
+California;45.0;2018;Mimi Walters;R;A
+California;46.0;2018;Lou Correa;D;F
+California;46.0;2018;Russell Lambert;R;AQ
+California;47.0;2018;Alan Lowenthal;D;F
+California;47.0;2018;John Briscoe;R;AQ
+California;48.0;2018;Harley Rouda;D;F
+California;48.0;2018;Dana Rohrabacher;R;A
+California;49.0;2018;Mike Levin;D;F
+California;49.0;2018;Diane Harkey;R;A
+California;50.0;2018;Ammar Campa-Najjar;D;F
+California;50.0;2018;Duncan Hunter;R;A
+California;51.0;2018;Juan Vargas;D;F
+California;51.0;2018;Juan Hidalgo Jr.;R;AQ
+California;52.0;2018;Scott Peters;D;F
+California;52.0;2018;Omar Qudrat;R;?
+California;53.0;2018;Susan Davis;D;F
+California;53.0;2018;Morgan Murtaugh;R;?
+Colorado;1.0;2018;Diana DeGette;D;F
+Colorado;1.0;2018;"Charles ""Casper"" Stockham";R;AQ
+Colorado;2.0;2018;Joe Neguse;D;F
+Colorado;2.0;2018;Peter Yu;R;?
+Colorado;3.0;2018;Diane Mitsch Bush;D;F
+Colorado;3.0;2018;Scott Tipton;R;A
+Colorado;4.0;2018;Karen McCormick;D;F
+Colorado;4.0;2018;Ken Buck;R;A-
+Colorado;5.0;2018;Stephany Rose Spaulding;D;F
+Colorado;5.0;2018;Doug Lamborn;R;A
+Colorado;6.0;2018;Jason Crow;D;F
+Colorado;6.0;2018;Mike Coffman;R;A
+Colorado;7.0;2018;Ed Perlmutter;D;F
+Colorado;7.0;2018;Mark Barrington;R;?
+Connecticut;1.0;2018;John Larson;D;F
+Connecticut;1.0;2018;Jennifer Nye;R;?
+Connecticut;2.0;2018;Joe Courtney;D;F
+Connecticut;2.0;2018;Dan Postemski;R;AQ
+Connecticut;3.0;2018;Rosa DeLauro;D;F
+Connecticut;3.0;2018;Angel Cadena;R;?
+Connecticut;4.0;2018;Jim Himes;D;F
+Connecticut;4.0;2018;Harry Arora;R;D
+Connecticut;5.0;2018;Jahana Hayes;D;F
+Connecticut;5.0;2018;Manny Santos;R;AQ
+Delaware;1.0;2018;Lisa Blunt Rochester;D;F
+Delaware;1.0;2018;Scott Walker;R;?
+Florida;1.0;2018;Jennifer Zimmerman;D;Fx
+Florida;1.0;2018;Matt Gaetz;R;A+
+Florida;2.0;2018;Bob Rackleff;D;Fx
+Florida;2.0;2018;Neal Dunn;R;A
+Florida;3.0;2018;Yvonne Hayes Hinson;D;Fx
+Florida;3.0;2018;Ted Yoho;R;A
+Florida;4.0;2018;Ges Selmont;D;Fx
+Florida;4.0;2018;John Rutherford;R;A
+Florida;5.0;2018;Al Lawson;D;F
+Florida;5.0;2018;Virginia Fuller;R;?
+Florida;6.0;2018;Nancy Soderberg;D;F
+Florida;6.0;2018;Mike Waltz;R;AQ
+Florida;7.0;2018;Stephanie Murphy;D;Fx
+Florida;7.0;2018;Mike Miller;R;A
+Florida;8.0;2018;Sanjay Patel;D;Fx
+Florida;8.0;2018;Bill Posey;R;A
+Florida;9.0;2018;Darren Soto;D;Fx
+Florida;9.0;2018;Wayne Liebnitzky;R;AQ
+Florida;10.0;2018;Val Demings;D;Fx
+Florida;11.0;2018;Dana Cottrell;D;Fx
+Florida;11.0;2018;Daniel Webster;R;A
+Florida;12.0;2018;Chris Hunter;D;Fx
+Florida;12.0;2018;Gus Bilirakis;R;A
+Florida;13.0;2018;Charlie Crist;D;Fx
+Florida;13.0;2018;George Buck;R;AQ
+Florida;14.0;2018;Kathy Castor;D;F
+Florida;15.0;2018;Kristen Carlson;D;Fx
+Florida;15.0;2018;Ross Spano;R;A+
+Florida;16.0;2018;David Shapiro;D;Fx
+Florida;16.0;2018;Vern Buchanan;R;A
+Florida;17.0;2018;April Freeman;D;F
+Florida;17.0;2018;Greg Steube;R;A+
+Florida;18.0;2018;Lauren Baer;D;Fx
+Florida;18.0;2018;Brian Mast;R;F
+Florida;19.0;2018;David Holden;D;Fx
+Florida;19.0;2018;Francis Rooney;R;A
+Florida;20.0;2018;Alcee Hastings;D;Fx
+Florida;21.0;2018;Lois Frankel;D;F
+Florida;22.0;2018;Ted Deutch;D;Fx
+Florida;22.0;2018;Nicolas Kimaz;R;AQ
+Florida;23.0;2018;Debbie Wasserman Schultz;D;Fx
+Florida;23.0;2018;Joe Kaufman;R;AQ
+Florida;24.0;2018;Frederica Wilson;D;F
+Florida;25.0;2018;Mary Barzee Flores;D;Fx
+Florida;25.0;2018;Mario Diaz-Balart;R;A
+Florida;26.0;2018;Debbie Mucarsel-Powell;D;Fx
+Florida;26.0;2018;Carlos Curbelo;R;Fx
+Florida;27.0;2018;Donna Shalala;D;Fx
+Florida;27.0;2018;Maria Elvira Salazar;R;?
+Georgia;1.0;2018;Lisa M. Ring;D;F
+Georgia;1.0;2018;"Earl L. ""Buddy"" Carter";R;A
+Georgia;2.0;2018;Sanford Bishop;D;A
+Georgia;2.0;2018;Herman West Jr.;R;AQ
+Georgia;3.0;2018;Chuck Enderlin;D;F
+Georgia;3.0;2018;Drew Ferguson;R;A
+Georgia;4.0;2018;"Henry C. ""Hank"" Johnson, Jr.";D;F
+Georgia;4.0;2018;Joe Profit;R;?
+Georgia;5.0;2018;John R. Lewis;D;F
+Georgia;6.0;2018;Lucy McBath;D;F
+Georgia;6.0;2018;Karen Handel;R;A
+Georgia;7.0;2018;Carolyn Bourdeaux;D;F
+Georgia;7.0;2018;Rob Woodall;R;A
+Georgia;8.0;2018;Austin Scott;R;A
+Georgia;9.0;2018;Josh McCall;D;F
+Georgia;9.0;2018;Doug Collins;R;A
+Georgia;10.0;2018;Tabitha A. Johnson-Green;D;F
+Georgia;10.0;2018;Jody Hice;R;A
+Georgia;11.0;2018;Flynn D. Broady, Jr.;D;F
+Georgia;11.0;2018;Barry Loudermilk;R;A
+Georgia;12.0;2018;Francys Johnson;D;F
+Georgia;12.0;2018;Rick W. Allen;R;A
+Georgia;13.0;2018;David Scott;D;F
+Georgia;13.0;2018;David Callahan;R;B-
+Georgia;14.0;2018;Steven Lamar Foster;D;D
+Georgia;14.0;2018;Tom Graves;R;A+
+Hawaii;1.0;2018;Ed Case;D;F
+Hawaii;1.0;2018;Cam Cavasso;R;AQ
+Hawaii;2.0;2018;Tulsi Gabbard;D;F
+Hawaii;2.0;2018;Brian Evans;R;AQ
+Idaho;1.0;2018;Cristina McNeil;D;?
+Idaho;1.0;2018;Russ Fulcher;R;A+
+Idaho;2.0;2018;Aaron Swisher;D;D
+Idaho;2.0;2018;Mike Simpson;R;A
+Illinois;1.0;2018;Bobby Rush;D;F
+Illinois;1.0;2018;Jimmie Lee Tillman II;R;?
+Illinois;2.0;2018;Robin Kelly;D;F
+Illinois;2.0;2018;David Merkle;R;B+
+Illinois;3.0;2018;Dan Lipinski;D;F
+Illinois;3.0;2018;Art Jones;R;?
+Illinois;4.0;2018;"Jesus ""Chuy"" Garcia";D;F
+Illinois;4.0;2018;Mark Lorch;R;?
+Illinois;5.0;2018;Mike Quigley;D;F
+Illinois;5.0;2018;Tom Hanson;R;?
+Illinois;6.0;2018;Sean Casten;D;F
+Illinois;6.0;2018;Peter Roskam;R;B-
+Illinois;7.0;2018;Danny K. Davis;D;F
+Illinois;7.0;2018;Craig Cameron;R;B-
+Illinois;8.0;2018;Raja Krishnamoorthi;D;F
+Illinois;8.0;2018;"Jitendra ""JD"" Diganvker";R;?
+Illinois;9.0;2018;Jan Schakowsky;D;F
+Illinois;9.0;2018;John Elleson;R;AQ
+Illinois;10.0;2018;Brad Schneider;D;F
+Illinois;10.0;2018;Doug Bennett;R;AQ
+Illinois;11.0;2018;Bill Foster;D;F
+Illinois;11.0;2018;Nick Stella;R;?
+Illinois;12.0;2018;Brendan Kelly;D;B
+Illinois;12.0;2018;Mike Bost;R;A
+Illinois;13.0;2018;Betsy Dirksen Londrigan;D;F
+Illinois;13.0;2018;Rodney Davis;R;A
+Illinois;14.0;2018;Lauren Underwood;D;F
+Illinois;14.0;2018;Randy Hultgren;R;A
+Illinois;15.0;2018;Kevin Gaither;D;D
+Illinois;15.0;2018;John Shimkus;R;A
+Illinois;16.0;2018;Sara Dady;D;F
+Illinois;16.0;2018;Adam Kinzinger;R;A
+Illinois;17.0;2018;Cheri Bustos;D;F
+Illinois;17.0;2018;Bill Fawell;R;AQ
+Illinois;18.0;2018;Junius Rodriguez;D;F
+Illinois;18.0;2018;Darin LaHood;R;A
+Indiana;1.0;2018;Peter Visclosky;D;F
+Indiana;1.0;2018;Mark Leyva;R;?
+Indiana;2.0;2018;Mel Hall;D;F
+Indiana;2.0;2018;Jackie Walorski;R;A
+Indiana;3.0;2018;Courtney Tritch;D;F
+Indiana;3.0;2018;Jim Banks;R;A
+Indiana;4.0;2018;Tobi Beck;D;D
+Indiana;4.0;2018;Jim Baird;R;A
+Indiana;5.0;2018;Dee Thornton;D;F
+Indiana;5.0;2018;Susan Brooks;R;A-
+Indiana;6.0;2018;Jeannine Lee Lake;D;F
+Indiana;6.0;2018;Greg Pence;R;AQ
+Indiana;7.0;2018;Andre Carson;D;F
+Indiana;7.0;2018;Wayne Harmon;R;?
+Indiana;8.0;2018;William Tanoos;D;?
+Indiana;8.0;2018;Larry Bucshon;R;A
+Indiana;9.0;2018;Liz Watson;D;F
+Indiana;9.0;2018;Trey Hollingsworth;R;A
+Iowa;1.0;2018;Abby Finkenauer;D;F
+Iowa;1.0;2018;Rod Blum;R;A
+Iowa;2.0;2018;Dave Loebsack;D;F
+Iowa;2.0;2018;Christopher Peters;R;AQ
+Iowa;3.0;2018;Cindy Axne;D;F
+Iowa;3.0;2018;David Young;R;A
+Iowa;4.0;2018;J.D. Scholten;D;F
+Iowa;4.0;2018;Steve King;R;A-
+Kansas;1.0;2018;Alan LaPolice;D;F
+Kansas;1.0;2018;Roger Marshall;R;A
+Kansas;2.0;2018;Paul Davis;D;?
+Kansas;2.0;2018;Steve Watkins;R;AQ
+Kansas;3.0;2018;Sharice Davids;D;F
+Kansas;3.0;2018;Kevin Yoder;R;A
+Kansas;4.0;2018;James A. Thompson;D;F
+Kansas;4.0;2018;Ron Estes;R;A
+Kentucky;1.0;2018;Paul Walker;D;F
+Kentucky;1.0;2018;James R. Comer;R;A
+Kentucky;2.0;2018;Hank Linderman;D;?
+Kentucky;2.0;2018;Brett Guthrie;R;A
+Kentucky;3.0;2018;John Yarmuth;D;F
+Kentucky;3.0;2018;Vickie Yates B. Glisson;R;AQ
+Kentucky;4.0;2018;Seth Hall;D;F
+Kentucky;4.0;2018;Thomas Massie;R;B
+Kentucky;5.0;2018;Kenneth S. Stepp;D;AQ
+Kentucky;5.0;2018;"Harold ""Hal"" Rogers";R;A
+Kentucky;6.0;2018;Amy McGrath;D;F
+Kentucky;6.0;2018;Andy Barr;R;A
+Louisiana;1.0;2018;Lee Ann Dugas;D;F
+Louisiana;1.0;2018;Jim Francis;D;F
+Louisiana;1.0;2018;Tammy Savoie;D;F
+Louisiana;1.0;2018;Steve Scalise;R;A+
+Louisiana;2.0;2018;Cedric Richmond;D;F
+Louisiana;3.0;2018;Rob Anderson;D;B
+Louisiana;3.0;2018;Mimi Methvin;D;F
+Louisiana;3.0;2018;Larry Rader;D;?
+Louisiana;3.0;2018;Verone Thomas;D;?
+Louisiana;3.0;2018;Clay Higgins;R;A
+Louisiana;3.0;2018;Josh Guillory;R;AQ
+Louisiana;4.0;2018;Ryan Trundle;D;F
+Louisiana;4.0;2018;Mike Johnson;R;A
+Louisiana;5.0;2018;Jessee Fleenor;D;?
+Louisiana;5.0;2018;Ralph Abraham;R;A
+Louisiana;6.0;2018;Justin Dewitt;D;?
+Louisiana;6.0;2018;Garret Graves;R;A
+Louisiana;6.0;2018;Andie Saizan;R;F
+Maine;1.0;2018;Chellie Pingree;D;F
+Maine;1.0;2018;Mark Holbrook;R;AQ
+Maine;2.0;2018;Jared Golden;D;D
+Maine;2.0;2018;Bruce Poliquin;R;A
+Maryland;1.0;2018;Jesse Colvin;D;F
+Maryland;1.0;2018;Andy Harris;R;A
+Maryland;2.0;2018;C.A. Dutch Ruppersberger;D;F
+Maryland;2.0;2018;Liz Matory;R;?
+Maryland;3.0;2018;John Sarbanes;D;F
+Maryland;3.0;2018;Charles Anthony;R;?
+Maryland;4.0;2018;Anthony Brown;D;F
+Maryland;4.0;2018;George McDermott;R;F
+Maryland;5.0;2018;Steny Hoyer;D;F
+Maryland;5.0;2018;Bill Devine;R;AQ
+Maryland;6.0;2018;David Trone;D;F
+Maryland;6.0;2018;Amie Hoeber;R;AQ
+Maryland;7.0;2018;Elijah Cummings;D;F
+Maryland;7.0;2018;Richmond Davis;R;?
+Maryland;8.0;2018;Jamie Raskin;D;F
+Maryland;8.0;2018;John Walsh;R;F
+Massachusetts;1.0;2018;Richard Neal;D;F
+Massachusetts;2.0;2018;Jim McGovern;D;F
+Massachusetts;2.0;2018;Tracy Lovvorn;R;?
+Massachusetts;3.0;2018;Lori Trahan;D;F
+Massachusetts;3.0;2018;Rick Green;R;?
+Massachusetts;4.0;2018;Joe Kennedy III;D;F
+Massachusetts;5.0;2018;Katherine Clark;D;F
+Massachusetts;5.0;2018;John Hugo;R;AQ
+Massachusetts;6.0;2018;Seth Moulton;D;F
+Massachusetts;6.0;2018;Joe Schneider;R;?
+Massachusetts;7.0;2018;Ayanna Pressley;D;F
+Massachusetts;8.0;2018;Stephen Lynch;D;F
+Massachusetts;9.0;2018;Bill Keating;D;F
+Massachusetts;9.0;2018;Peter Tedeschi;R;F
+Michigan;1.0;2018;Matt Morgan;D;D
+Michigan;1.0;2018;Jack Bergman;R;A
+Michigan;2.0;2018;Rob Davidson;D;F
+Michigan;2.0;2018;Bill Huizenga;R;A
+Michigan;3.0;2018;Cathy Albro;D;F
+Michigan;3.0;2018;Justin Amash;R;B-
+Michigan;4.0;2018;Jerry Hilliard;D;F
+Michigan;4.0;2018;John Moolenaar;R;A
+Michigan;5.0;2018;Dan Kildee;D;F
+Michigan;5.0;2018;Travis Wines;R;?
+Michigan;6.0;2018;Matt Longjohn;D;F
+Michigan;6.0;2018;Fred Upton;R;B
+Michigan;7.0;2018;Gretchen Driskell;D;F
+Michigan;7.0;2018;Tim Walberg;R;A
+Michigan;8.0;2018;Elissa Slotkin;D;F
+Michigan;8.0;2018;Mike Bishop;R;A
+Michigan;9.0;2018;Andy Levin;D;F
+Michigan;9.0;2018;Candius Stearns;R;AQ
+Michigan;10.0;2018;Kimberly Bizon;D;F
+Michigan;10.0;2018;Paul Mitchell;R;A
+Michigan;11.0;2018;Haley Stevens;D;F
+Michigan;11.0;2018;Lena Epstein;R;AQ
+Michigan;12.0;2018;Debbie Dingell;D;F
+Michigan;12.0;2018;Jeff Jones;R;AQ
+Michigan;13.0;2018;Rashida Tlaib;D;F
+Michigan;14.0;2018;Brenda Lawrence;D;F
+Michigan;14.0;2018;Marc S. Herschfus;R;?
+Minnesota;1.0;2018;Dan Feehan;DFL;F
+Minnesota;1.0;2018;Jim Hagedorn;R;AQ
+Minnesota;2.0;2018;Angie Craig;DFL;F
+Minnesota;2.0;2018;Jason Lewis;R;A
+Minnesota;3.0;2018;Dean Phillips;DFL;F
+Minnesota;3.0;2018;Erik Paulsen;R;A
+Minnesota;4.0;2018;Betty McCollum;DFL;F
+Minnesota;4.0;2018;Greg Ryan;R;AQ
+Minnesota;5.0;2018;Ilhan Omar;DFL;F
+Minnesota;5.0;2018;Jennifer Zielinski;R;AQ
+Minnesota;6.0;2018;Ian Todd;DFL;F
+Minnesota;6.0;2018;Tom Emmer;R;A+
+Minnesota;7.0;2018;Collin Peterson;DFL;A
+Minnesota;7.0;2018;Dave Hughes;R;AQ
+Minnesota;8.0;2018;Joe Radinovich;DFL;F
+Minnesota;8.0;2018;Pete Stauber;R;AQ
+Mississippi;1.0;2018;Randy Wadkins;D;?
+Mississippi;1.0;2018;Trent Kelly;R;A
+Mississippi;2.0;2018;Bennie Thompson;D;F
+Mississippi;3.0;2018;Michael Ted Evans;D;A
+Mississippi;3.0;2018;Michael Guest;R;A
+Mississippi;4.0;2018;Jeramey Anderson;D;F
+Mississippi;4.0;2018;Steven Palazzo;R;A
+Missouri;1.0;2018;Lacy Clay;D;F
+Missouri;1.0;2018;Robert Vroman;R;?
+Missouri;2.0;2018;Cort VanOstran;D;F
+Missouri;2.0;2018;Ann Wagner;R;A
+Missouri;3.0;2018;Katy Geppert;D;F
+Missouri;3.0;2018;Blaine Luetkemeyer;R;A
+Missouri;4.0;2018;Renee Hoagenson;D;F
+Missouri;4.0;2018;Vicky Hartzler;R;A
+Missouri;5.0;2018;Emanuel Cleaver;D;F
+Missouri;5.0;2018;Jacob Turk;R;AQ
+Missouri;6.0;2018;Henry Martin;D;F
+Missouri;6.0;2018;Sam Graves;R;A
+Missouri;7.0;2018;Jamie Schoolcraft;D;F
+Missouri;7.0;2018;Billy Long;R;A
+Missouri;8.0;2018;Kathy Ellis;D;F
+Missouri;8.0;2018;Jason Smith;R;A
+Montana;;2018;Kathleen Williams;D;F
+Montana;;2018;Greg Gianforte;R;A
+Nebraska;1.0;2018;Jessica McClure;D;F
+Nebraska;1.0;2018;Jeff Fortenberry;R;A
+Nebraska;2.0;2018;Kara Eastman;D;F
+Nebraska;2.0;2018;Don Bacon;R;A
+Nebraska;3.0;2018;Paul Theobald;D;?
+Nebraska;3.0;2018;Adrian Smith;R;A
+Nevada;1.0;2018;Dina Titus;D;F
+Nevada;1.0;2018;Joyce Bentley;R;?
+Nevada;2.0;2018;Clint Koble;D;F
+Nevada;2.0;2018;Mark Amodei;R;A
+Nevada;3.0;2018;Susie Lee;D;F
+Nevada;3.0;2018;Danny Tarkanian;R;?
+Nevada;4.0;2018;Steven Horsford;D;F
+Nevada;4.0;2018;Cresent Hardy;R;A
+New Hampshire;1.0;2018;Chris Pappas;D;F
+New Hampshire;1.0;2018;Eddie Edwards;R;AQ
+New Hampshire;2.0;2018;Annie Kuster;D;F
+New Hampshire;2.0;2018;Steve Negron;R;A
+New Jersey;1.0;2018;Donald Norcross;D;F
+New Jersey;1.0;2018;Paul Dilks;R;A-
+New Jersey;2.0;2018;Jeff Van Drew;D;B+
+New Jersey;2.0;2018;Seth Grossman;R;B
+New Jersey;3.0;2018;Andy Kim;D;F
+New Jersey;3.0;2018;Tom MacArthur;R;A
+New Jersey;4.0;2018;Josh Welle;D;F
+New Jersey;4.0;2018;Chris Smith;R;C-
+New Jersey;5.0;2018;Josh Gottheimer;D;F
+New Jersey;5.0;2018;John McCann;R;AQ
+New Jersey;6.0;2018;Frank Pallone;D;F
+New Jersey;6.0;2018;Rich Pezzullo;R;AQ
+New Jersey;7.0;2018;Tom Malinowski;D;F
+New Jersey;7.0;2018;Leonard Lance;R;C-
+New Jersey;8.0;2018;Albio Sires;D;F
+New Jersey;8.0;2018;John Muniz;R;?
+New Jersey;9.0;2018;Bill Pascrell;D;F
+New Jersey;9.0;2018;Eric Fisher;R;?
+New Jersey;10.0;2018;Donald Payne, Jr.;D;F
+New Jersey;10.0;2018;Agha Khan;R;?
+New Jersey;11.0;2018;Mikie Sherrill;D;F
+New Jersey;11.0;2018;Jay Webber;R;B+
+New Jersey;12.0;2018;Bonnie Watson-Coleman;D;F
+New Jersey;12.0;2018;Daryl Kipnis;R;AQ
+New Mexico;1.0;2018;Debra Haaland;D;F
+New Mexico;1.0;2018;Janice Arnold-Jones;R;A
+New Mexico;2.0;2018;Xochitl Torres Small;D;?
+New Mexico;2.0;2018;Yvette Herrell;R;A
+New Mexico;3.0;2018;Ben Ray Lujan;D;F
+New Mexico;3.0;2018;Jerald Steve McFall;R;AQ
+New York;1.0;2018;Perry Gershon;D;F
+New York;1.0;2018;Lee Zeldin;R;A
+New York;2.0;2018;Liuba Shirley;D;F
+New York;2.0;2018;Peter King;R;F
+New York;3.0;2018;Thomas Suozzi;D;F
+New York;3.0;2018;Dan DeBono;R;?
+New York;4.0;2018;Kathleen Rice;D;F
+New York;4.0;2018;Ameer Benno;R;C-
+New York;5.0;2018;Gregory Meeks;D;F
+New York;6.0;2018;Grace Meng;D;F
+New York;7.0;2018;Nydia Velazquez;D;F
+New York;8.0;2018;Hakeem Jeffries;D;F
+New York;9.0;2018;Yvette Clarke;D;F
+New York;9.0;2018;Lutchi Gayot;R;?
+New York;10.0;2018;Jerrold Nadler;D;F
+New York;10.0;2018;Naomi Levin;R;?
+New York;11.0;2018;Max Rose;D;F
+New York;11.0;2018;Dan Donovan;R;F
+New York;12.0;2018;Carolyn Maloney;D;F
+New York;12.0;2018;Eliot Rabin;R;?
+New York;13.0;2018;Adriano Espaillat;D;F
+New York;13.0;2018;Jineea Butler;R;?
+New York;14.0;2018;Alexandria Ocasio-Cortez;D;F
+New York;14.0;2018;Anthony Pappas;R;?
+New York;15.0;2018;Jose E. Serrano;D;F
+New York;15.0;2018;Jason Gonzalez;R;?
+New York;16.0;2018;Eliot Engel;D;F
+New York;17.0;2018;Nita Lowey;D;F
+New York;18.0;2018;Sean Patrick Maloney;D;F
+New York;18.0;2018;James O'Donnell;R;AQ
+New York;19.0;2018;Antonio Delgado;D;F
+New York;19.0;2018;John Faso;R;A
+New York;20.0;2018;Paul Tonko;D;F
+New York;20.0;2018;Francis Vitollo;R;?
+New York;21.0;2018;Tedra Cobb;D;F
+New York;21.0;2018;Elise Stefanik;R;A
+New York;22.0;2018;Anthony Brindisi;D;F
+New York;22.0;2018;Claudia Tenney;R;A
+New York;23.0;2018;Tracy Mitrano;D;F
+New York;23.0;2018;Tom Reed;R;A
+New York;24.0;2018;Dana Balter;D;F
+New York;24.0;2018;John Katko;R;A
+New York;25.0;2018;Joseph Morelle;D;F
+New York;25.0;2018;Jim Maxwell;R;?
+New York;26.0;2018;Brian Higgins;D;F
+New York;26.0;2018;Renee Zeno;R;?
+New York;27.0;2018;Nate McMurray;D;F
+New York;27.0;2018;Chris Collins;R;A+
+North Carolina;1.0;2018;G.K. Butterfield;D;F
+North Carolina;1.0;2018;Roger Allison;R;AQ
+North Carolina;2.0;2018;Linda Coleman;D;F
+North Carolina;2.0;2018;George Holding;R;A
+North Carolina;3.0;2018;Walter Jones;R;A-
+North Carolina;4.0;2018;David Price;D;F
+North Carolina;4.0;2018;Steve Loor;R;AQ
+North Carolina;5.0;2018;DD Adams;D;F
+North Carolina;5.0;2018;Virginia Foxx;R;A
+North Carolina;6.0;2018;Ryan Watts;D;F
+North Carolina;6.0;2018;Mark Walker;R;A
+North Carolina;7.0;2018;Kyle Horton;D;F
+North Carolina;7.0;2018;David Rouzer;R;A
+North Carolina;8.0;2018;Frank McNeill;D;D
+North Carolina;8.0;2018;Richard Hudson;R;A+
+North Carolina;9.0;2018;Dan McCready;D;D
+North Carolina;9.0;2018;Mark Harris;R;AQ
+North Carolina;10.0;2018;David Brown;D;F
+North Carolina;10.0;2018;Patrick McHenry;R;A
+North Carolina;11.0;2018;Phillip Price;D;F
+North Carolina;11.0;2018;Mark Meadows;R;A
+North Carolina;12.0;2018;Alma Adams;D;F
+North Carolina;12.0;2018;Paul Wright;R;AQ
+North Carolina;13.0;2018;Kathy Manning;D;F
+North Carolina;13.0;2018;Ted Budd;R;A
+North Dakota;;2018;Mac Schneider;D;A-
+North Dakota;;2018;Kelly Armstrong;R;A+
+Ohio;1.0;2018;Aftab Pureval;D;F
+Ohio;1.0;2018;Steve Chabot;R;A
+Ohio;2.0;2018;Jill Schiller;D;F
+Ohio;2.0;2018;Brad Wenstrup;R;A
+Ohio;3.0;2018;Joyce Beatty;D;F
+Ohio;3.0;2018;Jim Burgess;R;AQ
+Ohio;4.0;2018;Janet Garrett;D;F
+Ohio;4.0;2018;Jim Jordan;R;A
+Ohio;5.0;2018;J. Michael Galbraith;D;F
+Ohio;5.0;2018;Bob Latta;R;A
+Ohio;6.0;2018;Shawna Roberts;D;F
+Ohio;6.0;2018;Bill Johnson;R;A
+Ohio;7.0;2018;Ken Harbaugh;D;F
+Ohio;7.0;2018;Bob Gibbs;R;A+
+Ohio;8.0;2018;Vanessa Enoch;D;F
+Ohio;8.0;2018;Warren Davidson;R;A
+Ohio;9.0;2018;Marcy Kaptur;D;F
+Ohio;9.0;2018;Steven Kraus;R;AQ
+Ohio;10.0;2018;Theresa Gasper;D;F
+Ohio;10.0;2018;Mike Turner;R;A
+Ohio;11.0;2018;Marcia Fudge;D;F
+Ohio;11.0;2018;Beverly Goldstein;R;AQ
+Ohio;12.0;2018;Danny O'Connor;D;F
+Ohio;12.0;2018;Troy Balderson;R;A
+Ohio;13.0;2018;Tim Ryan;D;F
+Ohio;13.0;2018;Chris DePizzo;R;AQ
+Ohio;14.0;2018;Betsy Rader;D;F
+Ohio;14.0;2018;Dave Joyce;R;A
+Ohio;15.0;2018;Rick Neal;D;F
+Ohio;15.0;2018;Steve Stivers;R;A
+Ohio;16.0;2018;Susan Palmer;D;F
+Ohio;16.0;2018;Anthony Gonzalez;R;AQ
+Oklahoma;1.0;2018;Tim Gilpin;D;F
+Oklahoma;1.0;2018;Kevin Hern;R;AQ
+Oklahoma;2.0;2018;Jason Nichols;D;?
+Oklahoma;2.0;2018;Markwayne Mullin;R;A
+Oklahoma;3.0;2018;Frankie Robbins;D;?
+Oklahoma;3.0;2018;Frank D. Lucas;R;A
+Oklahoma;4.0;2018;Mary Brannon;D;F
+Oklahoma;4.0;2018;Tom Cole;R;A+
+Oklahoma;5.0;2018;Kendra Horn;D;F
+Oklahoma;5.0;2018;Steve Russell;R;A
+Oregon;1.0;2018;Suzanne Bonamici;D;F
+Oregon;1.0;2018;John Verbeek;R;AQ
+Oregon;2.0;2018;Jamie McLeod-Skinner;D;F
+Oregon;2.0;2018;Greg Walden;R;A
+Oregon;3.0;2018;Earl Blumenauer;D;F
+Oregon;3.0;2018;Tom Harrison;R;AQ
+Oregon;4.0;2018;Peter DeFazio;D;D
+Oregon;4.0;2018;"Arthur ""Art"" Robinson";R;AQ
+Oregon;5.0;2018;Kurt Schrader;D;B-
+Oregon;5.0;2018;Mark Callahan;R;AQ
+Pennsylvania;1.0;2018;Scott Wallace;D;F
+Pennsylvania;1.0;2018;Brian Fitzpatrick;R;F
+Pennsylvania;2.0;2018;Brendan Boyle;D;F
+Pennsylvania;2.0;2018;David Torres;R;?
+Pennsylvania;3.0;2018;Dwight Evans;D;F
+Pennsylvania;3.0;2018;Bryan Leib;R;?
+Pennsylvania;4.0;2018;Madeleine Dean;D;F
+Pennsylvania;4.0;2018;Dan David;R;B
+Pennsylvania;5.0;2018;Mary Gay Scanlon;D;F
+Pennsylvania;5.0;2018;Pearl Kim;R;?
+Pennsylvania;6.0;2018;Chrissy Houlahan;D;F
+Pennsylvania;6.0;2018;Greg McCauley;R;AQ
+Pennsylvania;7.0;2018;Susan Wild;D;F
+Pennsylvania;7.0;2018;Marty Nothstein;R;AQ
+Pennsylvania;8.0;2018;Matt Cartwright;D;F
+Pennsylvania;8.0;2018;John Chrin;R;AQ
+Pennsylvania;9.0;2018;Denny Wolff;D;AQ
+Pennsylvania;9.0;2018;Dan Meuser;R;AQ
+Pennsylvania;10.0;2018;George Scott;D;F
+Pennsylvania;10.0;2018;Scott Perry;R;A-
+Pennsylvania;11.0;2018;Jess King;D;F
+Pennsylvania;11.0;2018;Lloyd Smucker;R;A
+Pennsylvania;12.0;2018;Marc Friedenberg;D;D
+Pennsylvania;12.0;2018;Tom Marino;R;A
+Pennsylvania;13.0;2018;Brent Ottaway;D;?
+Pennsylvania;13.0;2018;John Joyce;R;AQ
+Pennsylvania;14.0;2018;Bibiana Boerio;D;?
+Pennsylvania;14.0;2018;Guy Reschenthaler;R;A
+Pennsylvania;15.0;2018;Susan Boser;D;?
+Pennsylvania;15.0;2018;Glenn Thompson;R;A
+Pennsylvania;16.0;2018;Ron DiNicola;D;D
+Pennsylvania;16.0;2018;Mike Kelly;R;A+
+Pennsylvania;17.0;2018;Conor Lamb;D;F
+Pennsylvania;17.0;2018;Keith Rothfus;R;A
+Pennsylvania;18.0;2018;Mike Doyle;D;F
+Rhode Island;1.0;2018;David Cicilline;D;F
+Rhode Island;1.0;2018;Patrick Donovan;R;?
+Rhode Island;2.0;2018;Jim Langevin;D;F
+Rhode Island;2.0;2018;Salvatore Caiozzo;R;AQ
+South Carolina;1.0;2018;Joe Cunningham;D;F
+South Carolina;1.0;2018;Katie Arrington;R;A
+South Carolina;2.0;2018;Sean Carrigan;D;F
+South Carolina;2.0;2018;Joe Wilson;R;A
+South Carolina;3.0;2018;Mary Geren;D;F
+South Carolina;3.0;2018;Jeff Duncan;R;A+
+South Carolina;4.0;2018;Brandon P. Brown;D;F
+South Carolina;4.0;2018;William Timmons;R;A
+South Carolina;5.0;2018;Archie Parnell;D;F
+South Carolina;5.0;2018;Ralph Norman;R;A
+South Carolina;6.0;2018;"James ""Jim"" Clyburn";D;F
+South Carolina;6.0;2018;Gerhard Gressman;R;AQ
+South Carolina;7.0;2018;Robert Q. Williams;D;F
+South Carolina;7.0;2018;Tom Rice;R;A
+South Dakota;;2018;Tim Bjorkman;D;D
+South Dakota;;2018;Dusty Johnson;R;AQ
+Tennessee;1.0;2018;Marty Olsen;D;?
+Tennessee;1.0;2018;Phil Roe;R;A
+Tennessee;2.0;2018;Renee Hoyos;D;F
+Tennessee;2.0;2018;Tim Burchett;R;A
+Tennessee;3.0;2018;Danielle Mitchell;D;F
+Tennessee;3.0;2018;Chuck Fleischmann;R;A
+Tennessee;4.0;2018;Mariah Phillips;D;F
+Tennessee;4.0;2018;Scott DesJarlais;R;A
+Tennessee;5.0;2018;Jim Cooper;D;F
+Tennessee;5.0;2018;Jody M. Ball;R;?
+Tennessee;6.0;2018;Dawn Barlow;D;F
+Tennessee;6.0;2018;John Rose;R;AQ
+Tennessee;7.0;2018;Justin Kanew;D;F
+Tennessee;7.0;2018;Mark E. Green;R;A
+Tennessee;8.0;2018;Erika Stotts Pearson;D;?
+Tennessee;8.0;2018;David Kustoff;R;A
+Tennessee;9.0;2018;Steve Cohen;D;F
+Tennessee;9.0;2018;Charlotte Bergmann;R;AQ
+Texas;1.0;2018;Shirley J. McKellar;D;F
+Texas;1.0;2018;Louie Gohmert;R;B+
+Texas;2.0;2018;Todd Litton;D;F
+Texas;2.0;2018;Dan Crenshaw;R;AQ
+Texas;3.0;2018;Lorie Burch;D;F
+Texas;3.0;2018;Van Taylor;R;A
+Texas;4.0;2018;Catherine Krantz;D;F
+Texas;4.0;2018;John Ratcliffe;R;A
+Texas;5.0;2018;Dan Wood;D;D
+Texas;5.0;2018;Lance Gooden;R;A
+Texas;6.0;2018;Jana Lynne Sanchez;D;F
+Texas;6.0;2018;Ron Wright;R;AQ
+Texas;7.0;2018;Lizzie Pannill Fletcher;D;F
+Texas;7.0;2018;John Culberson;R;A+
+Texas;8.0;2018;Steven David;D;F
+Texas;8.0;2018;Kevin Brady;R;A
+Texas;9.0;2018;Al Green;D;F
+Texas;10.0;2018;Mike Siegel;D;F
+Texas;10.0;2018;Michael McCaul;R;A
+Texas;11.0;2018;Jennie Lou Leeder;D;F
+Texas;11.0;2018;Mike Conaway;R;A+
+Texas;12.0;2018;Vanessa Adia;D;F
+Texas;12.0;2018;Kay Granger;R;A
+Texas;13.0;2018;Greg Sagan;D;F
+Texas;13.0;2018;Mac Thornberry;R;A
+Texas;14.0;2018;Adrienne Bell;D;F
+Texas;14.0;2018;Randy Weber;R;A
+Texas;15.0;2018;Vicente Gonzalez;D;C
+Texas;15.0;2018;Tim Westley;R;B+
+Texas;16.0;2018;Veronica Escobar;D;F
+Texas;16.0;2018;Rick Seeberger;R;AQ
+Texas;17.0;2018;Rick Kennedy;D;D
+Texas;17.0;2018;Bill Flores;R;A
+Texas;18.0;2018;Sheila Jackson Lee;D;F
+Texas;18.0;2018;Ava Reynero Pate;R;AQ
+Texas;19.0;2018;Miguel Levario;D;F
+Texas;19.0;2018;Jodey Arrington;R;A
+Texas;20.0;2018;Joaquin Castro;D;F
+Texas;21.0;2018;Joseph Kopser;D;F
+Texas;21.0;2018;Chip Roy;R;AQ
+Texas;22.0;2018;Sri Preston Kulkarni;D;F
+Texas;22.0;2018;Pete Olson;R;A
+Texas;23.0;2018;Gina Ortiz Jones;D;F
+Texas;23.0;2018;Will Hurd;R;A
+Texas;24.0;2018;Jan McDowell;D;F
+Texas;24.0;2018;Kenny Marchant;R;A
+Texas;25.0;2018;Julie Oliver;D;F
+Texas;25.0;2018;Roger Williams;R;A
+Texas;26.0;2018;Linsey Fagan;D;F
+Texas;26.0;2018;Michael C. Burgess;R;A
+Texas;27.0;2018;Eric Holguin;D;F
+Texas;27.0;2018;Michael Cloud;R;A
+Texas;28.0;2018;Henry Cuellar;D;A
+Texas;29.0;2018;Sylvia R. Garcia;D;F
+Texas;29.0;2018;Phillip Aronoff;R;?
+Texas;30.0;2018;Eddie Bernice Johnson;D;F
+Texas;31.0;2018;"Mary Jennings ""MJ"" Hegar";D;F
+Texas;31.0;2018;John Carter;R;A+
+Texas;32.0;2018;Colin Allred;D;F
+Texas;32.0;2018;Pete Sessions;R;A+
+Texas;33.0;2018;Marc Veasey;D;F
+Texas;33.0;2018;Willie Billups;R;AQ
+Texas;34.0;2018;Filemon B. Vela;D;D
+Texas;34.0;2018;Rey Gonzalez;R;AQ
+Texas;35.0;2018;Lloyd Doggett;D;F
+Texas;35.0;2018;David Smalling;R;AQ
+Texas;36.0;2018;Dayna Steele;D;F
+Texas;36.0;2018;Brian Babin;R;A
+Utah;1.0;2018;Lee Castillo;D;F
+Utah;1.0;2018;Rob Bishop;R;A+
+Utah;2.0;2018;Shireen Ghorbani;D;F
+Utah;2.0;2018;Chris Stewart;R;A
+Utah;3.0;2018;James Singer;D;F
+Utah;3.0;2018;John Curtis;R;A
+Utah;4.0;2018;Ben McAdams;D;F
+Utah;4.0;2018;Mia Love;R;A
+Vermont;;2018;Peter Welch;D;F
+Vermont;;2018;Anya Tynio;R;AQ
+Virginia;1.0;2018;Vangie Williams;D;F
+Virginia;1.0;2018;Rob Wittman;R;A
+Virginia;2.0;2018;Elaine Luria;D;F
+Virginia;2.0;2018;Scott Taylor;R;A
+Virginia;3.0;2018;Robert Scott;D;F
+Virginia;4.0;2018;Donald McEachin;D;F
+Virginia;4.0;2018;Ryan McAdams;R;AQ
+Virginia;5.0;2018;Leslie Cockburn;D;F
+Virginia;5.0;2018;Denver Riggleman;R;AQ
+Virginia;6.0;2018;Jennifer Lewis;D;F
+Virginia;6.0;2018;Ben Cline;R;A+
+Virginia;7.0;2018;Abigail Spanberger;D;F
+Virginia;7.0;2018;Dave Brat;R;A
+Virginia;8.0;2018;Don Beyer;D;F
+Virginia;8.0;2018;Thomas Oh;R;?
+Virginia;9.0;2018;Anthony Flaccavento;D;D
+Virginia;9.0;2018;Morgan Griffith;R;A+
+Virginia;10.0;2018;Jennifer Wexton;D;F
+Virginia;10.0;2018;Barbara Comstock;R;A
+Virginia;11.0;2018;Gerald Connolly;D;F
+Virginia;11.0;2018;Jeff Dove;R;AQ
+Washington;1.0;2018;Suzan DelBene;D;F
+Washington;1.0;2018;Jeffrey Beeler;R;AQ
+Washington;2.0;2018;Rick Larsen;D;F
+Washington;2.0;2018;Brian Luke;L;AQ
+Washington;3.0;2018;Carolyn Long;D;F
+Washington;3.0;2018;Jaime Herrera Beutler;R;A
+Washington;4.0;2018;Christine Brown;D;F
+Washington;4.0;2018;Dan Newhouse;R;A
+Washington;5.0;2018;Lisa Brown;D;F
+Washington;5.0;2018;Cathy McMorris Rodgers;R;A
+Washington;6.0;2018;Derek Kilmer;D;F
+Washington;6.0;2018;Douglas Dightman;R;AQ
+Washington;7.0;2018;Pramila Jayapal;D;F
+Washington;7.0;2018;Craig Keller;R;AQ
+Washington;8.0;2018;Kim Schrier;D;F
+Washington;8.0;2018;Dino Rossi;R;A
+Washington;9.0;2018;Adam Smith;D;F
+Washington;9.0;2018;Sarah Smith;D;F
+Washington;10.0;2018;Denny Heck;D;F
+Washington;10.0;2018;Joseph Brumbles;R;AQ
+West Virginia;1.0;2018;Kendra Fershee;D;?
+West Virginia;1.0;2018;David McKinley;R;A
+West Virginia;2.0;2018;Talley Sergent;D;D
+West Virginia;2.0;2018;Alex Mooney;R;A
+West Virginia;3.0;2018;Richard Ojeda;D;?
+West Virginia;3.0;2018;Carol Miller;R;A
+Wisconsin;1.0;2018;Randy Bryce;D;F
+Wisconsin;1.0;2018;Bryan Steil;R;AQ
+Wisconsin;2.0;2018;Mark Pocan;D;F
+Wisconsin;3.0;2018;Ron Kind;D;C
+Wisconsin;3.0;2018;Steve Toft;R;AQ
+Wisconsin;4.0;2018;Gwen S. Moore;D;F
+Wisconsin;4.0;2018;Tim Rogers;R;AQ
+Wisconsin;5.0;2018;Tom Palzewicz;D;F
+Wisconsin;5.0;2018;F. James Sensenbrenner, Jr.;R;A
+Wisconsin;6.0;2018;Dan Kohl;D;?
+Wisconsin;6.0;2018;Glenn Grothman;R;A
+Wisconsin;7.0;2018;Margaret Engebretson;D;F
+Wisconsin;7.0;2018;Sean P. Duffy;R;A
+Wisconsin;8.0;2018;Beau Liegeois;D;F
+Wisconsin;8.0;2018;Mike Gallagher;R;A
+Wyoming;;2018;Greg Hunter;D;?
+Wyoming;;2018;Liz Cheney;R;A
